@@ -43,7 +43,7 @@ Además, estoy profundizando mis conocimientos en **inteligencia artificial**, e
 
 ## 📚 Educación  
 
-🎓 **Licenciatura en Gestión de las Tecnologías de la Computación** (2025) - Universidad Argentina de la Empresa  
+🎓 **Licenciatura en Gestión de las Tecnologías de la Información** (2025) - Universidad Argentina de la Empresa  
 🎓 **Ingeniería en Computación** (cursada hasta 2020) - Universidad Católica Argentina  
 
 ---
